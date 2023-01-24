@@ -24,4 +24,4 @@ mv ghost_mail/* ./
 
 chmod 666 data/quake_data.txt
 
-while true; do python3 ghost_mail.py; sleep 60s; done
+while true; do python3 ghost_mail.py "〇〇〇〇〇〇〇〇"; sleep 60s; done
