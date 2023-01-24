@@ -8,10 +8,7 @@ pip3 install beautifulsoup4
 
 apt-get install apache2
 
-
-
-
-
+---------------------------------------------------------------
 
 cd /var/www
 
@@ -21,10 +18,10 @@ mkdir html
 
 cd html
 
-git clone https://github.com/TsugawaNaoki0/zero_wiki.git
+git clone https://github.com/TsugawaNaoki0/ghost_mail.git
 
-mv zero_wiki/* ./
+mv ghost_mail/* ./
 
 chmod 666 data/quake_data.txt
 
-while true; do python3 zeroWiki.py; sleep 60s; done
+while true; do python3 ghost_mail.py; sleep 60s; done
