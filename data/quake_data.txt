@@ -4,17 +4,17 @@
 <head>
 <meta charset="utf-8"/>
 <title>公安警察 - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"b7e412b1-0942-4bc0-a0c4-9eccde4774c3","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"公安警察","wgTitle":"公安警察","wgCurRevisionId":93174241,"wgRevisionId":93174241,"wgArticleId":255715,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典のページ番号が要望されている記事","編集拡張半保護中のページ","参照方法","日本の公安","日本の諜報・情報機関","治安","日本の警察","秘密警察","防諜"],"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"公安警察",
-"wgRelevantArticleId":255715,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["extendedconfirmed"],"wgRestrictionMove":["extendedconfirmed"],"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"日本語","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q24887257","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.PDFLinkIcon":
-"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","skins.vector.es6","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp",
-"ext.gadget.ReferenceTooltips","ext.gadget.NormalizeCharWidth","ext.gadget.shortURL","ext.gadget.suppressEnterAtSummaryBox","ext.gadget.checkSignature","ext.gadget.charinsert","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.gadget.protectionIndicator","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"d5a415d3-0e60-45e6-98d6-226acacc4b18","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"公安警察","wgTitle":"公安警察","wgCurRevisionId":93531764,"wgRevisionId":93531764,"wgArticleId":255715,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典のページ番号が要望されている記事","編集拡張半保護中のページ","参照方法","日本の公安","日本の諜報・情報機関","治安","日本の警察","秘密警察","防諜"],"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"公安警察",
+"wgRelevantArticleId":255715,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["extendedconfirmed"],"wgRestrictionMove":["extendedconfirmed"],"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"日本語","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q24887257","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"skins.vector.user.styles"
+:"ready","ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","skins.vector.es6","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.NormalizeCharWidth","ext.gadget.shortURL","ext.gadget.suppressEnterAtSummaryBox","ext.gadget.checkSignature","ext.gadget.charinsert","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.gadget.protectionIndicator","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","ext.growthExperiments.SuggestedEditSession"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
 <link href="/w/load.php?lang=ja&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
 <script async="" src="/w/load.php?lang=ja&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
 <meta content="" name="ResourceLoaderDynamicStyles"/>
 <link href="/w/load.php?lang=ja&amp;modules=ext.gadget.PDFLinkIcon%2CRedirectColor&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
 <link href="/w/load.php?lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
-<meta content="MediaWiki 1.40.0-wmf.14" name="generator"/>
+<meta content="MediaWiki 1.40.0-wmf.19" name="generator"/>
 <meta content="origin" name="referrer"/>
 <meta content="origin-when-crossorigin" name="referrer"/>
 <meta content="origin-when-cross-origin" name="referrer"/>
@@ -34,7 +34,7 @@
 <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
 <link href="//login.wikimedia.org" rel="dns-prefetch"/>
 </head>
-<body class="skin-vector skin-vector-search-vue vector-toc-pinned vector-main-menu-unpinned mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-公安警察 rootpage-公安警察 skin-vector-2022 action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled"><div class="mw-page-container">
+<body class="skin-vector skin-vector-search-vue vector-toc-pinned mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-公安警察 rootpage-公安警察 skin-vector-2022 action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled"><div class="mw-page-container">
 <a class="mw-jump-link" href="#bodyContent">コンテンツにスキップ</a>
 <div class="mw-page-container-inner">
 <input class="mw-checkbox-hack-checkbox" id="mw-sidebar-checkbox" type="checkbox"/>
@@ -69,33 +69,40 @@
 </div>
 <nav aria-label="個人用ツール" class="vector-user-links" role="navigation">
 <div class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow" id="p-vector-user-menu-overflow">
+<div class="vector-menu-heading">
+</div>
 <div class="vector-menu-content">
 <ul class="vector-menu-content-list"><li class="user-links-collapsible-item mw-list-item" id="pt-createaccount-2"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません"><span>アカウント作成</span></a></li></ul>
 </div>
 </div>
-<div class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-personal vector-user-menu vector-menu-dropdown vector-user-menu-logged-out" id="p-personal" title="その他の操作">
-<input aria-haspopup="true" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-personal" id="p-personal-checkbox" role="button" type="checkbox">
-<label class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis" for="p-personal-checkbox" id="p-personal-label">
-<span class="vector-menu-heading-label">個人用ツール</span>
+<div class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-personal vector-user-menu vector-user-menu-logged-out" id="p-personal" title="その他の操作">
+<input aria-haspopup="true" class="vector-menu-checkbox " data-event-name="ui.dropdown-p-personal" id="p-personal-checkbox" role="button" type="checkbox">
+<label class="vector-menu-heading mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-wikimedia-ellipsis" for="p-personal-checkbox" id="p-personal-label">
+<span class="vector-menu-heading-label">Foo</span>
 </label>
 <div class="vector-menu-content">
-<div class="vector-user-menu-create-account"><a class="vector-menu-content-item user-links-collapsible-item" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>アカウント作成</span></a></div>
-<div class="vector-user-menu-login"><a accesskey="o" class="vector-menu-content-item vector-menu-content-item-login" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F" title="ログインすることを推奨します。ただし、必須ではありません。 [o]"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>ログイン</span></a></div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="vector-user-menu-create-account user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span><span>アカウント作成</span></a>
+</li><li class="vector-user-menu-login"><a data-mw="interface" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span><span>ログイン</span></a>
+</li></ul>
+</div>
 <div class="vector-user-menu-anon-editor">
 <p>
-				ログアウトした編集者のページ <a aria-label="編集の詳細" href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D"><span>もっと詳しく</span></a>
+				ログアウトした編集者のページ <a aria-label="編集の詳細" data-mw="interface" href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D"><span>もっと詳しく</span></a>
 </p>
 </div>
+<div class="vector-menu-content">
 <ul class="vector-menu-content-list"><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]"><span>トーク</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]"><span>投稿記録</span></a></li></ul>
+</div>
 </div>
 </input></div></nav>
 </div>
 </header>
 <div class="vector-main-menu-container ">
 <div id="mw-navigation">
-<nav aria-label="サイト" class="vector-main-menu" id="mw-panel" role="navigation">
-<div class="vector-main-menu-contents">
-<div class="vector-main-menu-group vector-menu vector-menu-portal portal mw-portlet mw-portlet-navigation" id="p-navigation">
+<nav aria-label="サイト" class="vector-main-menu-landmark" id="mw-panel" role="navigation">
+<div class="vector-main-menu vector-pinnable-element" id="vector-main-menu">
+<div class="vector-main-menu-group vector-menu mw-portlet mw-portlet-navigation" id="p-navigation">
 <div class="vector-menu-heading " id="p-navigation-label">
 <span class="vector-menu-heading-label">案内</span>
 </div>
@@ -103,7 +110,7 @@
 <ul class="vector-menu-content-list"><li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]"><span>メインページ</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所"><span>コミュニティ・ポータル</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る"><span>最近の出来事</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧"><span>新しいページ</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]"><span>最近の更新</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]"><span>おまかせ表示</span></a></li><li class="mw-list-item" id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ"><span>練習用ページ</span></a></li><li class="mw-list-item" id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード"><span>アップロード (ウィキメディア・コモンズ)</span></a></li></ul>
 </div>
 </div>
-<div class="vector-main-menu-group vector-menu vector-menu-portal portal mw-portlet mw-portlet-help" id="p-help">
+<div class="vector-main-menu-group vector-menu mw-portlet mw-portlet-help" id="p-help">
 <div class="vector-menu-heading " id="p-help-label">
 <span class="vector-menu-heading-label">ヘルプ</span>
 </div>
@@ -111,15 +118,15 @@
 <ul class="vector-menu-content-list"><li class="mw-list-item" id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所"><span>ヘルプ</span></a></li><li class="mw-list-item" id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換"><span>井戸端</span></a></li><li class="mw-list-item" id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ"><span>お知らせ</span></a></li><li class="mw-list-item" id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告"><span>バグの報告</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください"><span>寄付</span></a></li><li class="mw-list-item" id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先"><span>ウィキペディアに関するお問い合わせ</span></a></li></ul>
 </div>
 </div>
-<div class="vector-main-menu-group vector-menu vector-menu-portal portal mw-portlet mw-portlet-tb" id="p-tb">
+<div class="vector-main-menu-group vector-menu mw-portlet mw-portlet-tb" id="p-tb">
 <div class="vector-menu-heading " id="p-tb-label">
 <span class="vector-menu-heading-label">ツール</span>
 </div>
 <div class="vector-menu-content">
-<ul class="vector-menu-content-list"><li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F" title="ここにリンクしている全ウィキページの一覧 [j]"><span>リンク元</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F" rel="nofollow" title="このページからリンクしているページの最近の更新 [k]"><span>関連ページの更新状況</span></a></li><li class="mw-list-item" id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]"><span>ファイルをアップロード</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]"><span>特別ページ</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F&amp;oldid=93174241" title="このページのこの版への固定リンク"><span>この版への固定リンク</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F&amp;action=info" title="このページについての詳細情報"><span>ページ情報</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F&amp;id=93174241&amp;wpFormIdentifier=titleform" title="このページの引用方法"><span>このページを引用</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q24887257" title="関連付けられたデータリポジトリ項目へのリンク [g]"><span>ウィキデータ項目</span></a></li></ul>
+<ul class="vector-menu-content-list"><li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F" title="ここにリンクしている全ウィキページの一覧 [j]"><span>リンク元</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F" rel="nofollow" title="このページからリンクしているページの最近の更新 [k]"><span>関連ページの更新状況</span></a></li><li class="mw-list-item" id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]"><span>ファイルをアップロード</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]"><span>特別ページ</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F&amp;oldid=93531764" title="このページのこの版への固定リンク"><span>この版への固定リンク</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F&amp;action=info" title="このページについての詳細情報"><span>ページ情報</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F&amp;id=93531764&amp;wpFormIdentifier=titleform" title="このページの引用方法"><span>このページを引用</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q24887257" title="関連付けられたデータリポジトリ項目へのリンク [g]"><span>ウィキデータ項目</span></a></li></ul>
 </div>
 </div>
-<div class="vector-main-menu-group vector-menu vector-menu-portal portal mw-portlet mw-portlet-coll-print_export" id="p-coll-print_export">
+<div class="vector-main-menu-group vector-menu mw-portlet mw-portlet-coll-print_export" id="p-coll-print_export">
 <div class="vector-menu-heading " id="p-coll-print_export-label">
 <span class="vector-menu-heading-label">印刷/書き出し</span>
 </div>
@@ -128,7 +135,7 @@
 </div>
 </div>
 <div class="vector-main-menu-action vector-main-menu-action-lang-alert">
-<div class="vector-main-menu-action-item vector-menu-portal">
+<div class="vector-main-menu-action-item">
 <div class="vector-main-menu-action-heading vector-menu-heading">言語</div>
 <div class="vector-main-menu-action-content vector-menu-content">
 <div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">このWikipediaでは言語間リンクがページの先頭にある記事タイトルの向かい側に設置されています。<a href="#p-lang-btn">ページの先頭をご覧ください</a>。</div>
@@ -140,129 +147,127 @@
 </div>
 </div>
 <div class="vector-sitenotice-container">
-<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+<div id="siteNotice"><!-- CentralNotice --></div>
 </div>
 <input class="mw-checkbox-hack-checkbox" id="vector-toc-collapsed-checkbox" type="checkbox"/>
-<div class="mw-table-of-contents-container">
-<div id="vector-toc-pinned-container">
-<nav aria-label="目次" class="sidebar-toc" data-event-name="ui.sidebar-toc" id="mw-panel-toc" role="navigation">
+<nav aria-label="目次" class="mw-table-of-contents-container" data-event-name="ui.sidebar-toc" id="mw-panel-toc" role="navigation">
+<div class="vector-pinned-container" id="vector-toc-pinned-container">
+<div class="vector-toc vector-pinnable-element" id="vector-toc">
 <div class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned" data-name="vector-toc">
 <h2 class="vector-pinnable-header-label">目次</h2>
-<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button">サイドバーに移動</button>
-<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button">非表示</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">サイドバーに移動</button>
+<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">非表示</button>
 </div>
-<ul class="sidebar-toc-contents" id="mw-panel-toc-list">
-<li class="sidebar-toc-list-item sidebar-toc-level-1" id="toc-mw-content-text">
-<a class="sidebar-toc-link" href="#">
-<div class="sidebar-toc-text">ページ先頭</div>
+<ul class="vector-toc-contents" id="mw-panel-toc-list">
+<li class="vector-toc-list-item vector-toc-level-1" id="toc-mw-content-text">
+<a class="vector-toc-link" href="#">
+<div class="vector-toc-text">ページ先頭</div>
 </a>
 </li>
-<li class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded" id="toc-日本の公安警察">
-<a class="sidebar-toc-link" href="#日本の公安警察">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">1</span>日本の公安警察</div>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-日本の公安警察">
+<a class="vector-toc-link" href="#日本の公安警察">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">1</span>日本の公安警察</div>
 </a>
-<button aria-controls="toc-日本の公安警察-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small sidebar-toc-toggle">
-					日本の公安警察サブセクションを切り替えます
-				</button>
-<ul class="sidebar-toc-list" id="toc-日本の公安警察-sublist">
-<li class="sidebar-toc-list-item sidebar-toc-level-2" id="toc-沿革">
-<a class="sidebar-toc-link" href="#沿革">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">1.1</span>沿革</div>
+<button aria-controls="toc-日本の公安警察-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+</button>
+<ul class="vector-toc-list" id="toc-日本の公安警察-sublist">
+<li class="vector-toc-list-item vector-toc-level-2" id="toc-沿革">
+<a class="vector-toc-link" href="#沿革">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">1.1</span>沿革</div>
 </a>
-<ul class="sidebar-toc-list" id="toc-沿革-sublist">
+<ul class="vector-toc-list" id="toc-沿革-sublist">
 </ul>
 </li>
-<li class="sidebar-toc-list-item sidebar-toc-level-2" id="toc-捜査手法">
-<a class="sidebar-toc-link" href="#捜査手法">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">1.2</span>捜査手法</div>
+<li class="vector-toc-list-item vector-toc-level-2" id="toc-捜査手法">
+<a class="vector-toc-link" href="#捜査手法">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">1.2</span>捜査手法</div>
 </a>
-<ul class="sidebar-toc-list" id="toc-捜査手法-sublist">
-<li class="sidebar-toc-list-item sidebar-toc-level-3" id="toc-批判">
-<a class="sidebar-toc-link" href="#批判">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">1.2.1</span>批判</div>
+<ul class="vector-toc-list" id="toc-捜査手法-sublist">
+<li class="vector-toc-list-item vector-toc-level-3" id="toc-批判">
+<a class="vector-toc-link" href="#批判">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">1.2.1</span>批判</div>
 </a>
-<ul class="sidebar-toc-list" id="toc-批判-sublist">
-</ul>
-</li>
-</ul>
-</li>
-<li class="sidebar-toc-list-item sidebar-toc-level-2" id="toc-公安警察官">
-<a class="sidebar-toc-link" href="#公安警察官">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">1.3</span>公安警察官</div>
-</a>
-<ul class="sidebar-toc-list" id="toc-公安警察官-sublist">
+<ul class="vector-toc-list" id="toc-批判-sublist">
 </ul>
 </li>
 </ul>
 </li>
-<li class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded" id="toc-各国の公安警察">
-<a class="sidebar-toc-link" href="#各国の公安警察">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">2</span>各国の公安警察</div>
+<li class="vector-toc-list-item vector-toc-level-2" id="toc-公安警察官">
+<a class="vector-toc-link" href="#公安警察官">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">1.3</span>公安警察官</div>
 </a>
-<ul class="sidebar-toc-list" id="toc-各国の公安警察-sublist">
+<ul class="vector-toc-list" id="toc-公安警察官-sublist">
 </ul>
 </li>
-<li class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded" id="toc-参考文献">
-<a class="sidebar-toc-link" href="#参考文献">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">3</span>参考文献</div>
-</a>
-<ul class="sidebar-toc-list" id="toc-参考文献-sublist">
 </ul>
 </li>
-<li class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded" id="toc-脚注">
-<a class="sidebar-toc-link" href="#脚注">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">4</span>脚注</div>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-各国の公安警察">
+<a class="vector-toc-link" href="#各国の公安警察">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">2</span>各国の公安警察</div>
 </a>
-<ul class="sidebar-toc-list" id="toc-脚注-sublist">
+<ul class="vector-toc-list" id="toc-各国の公安警察-sublist">
 </ul>
 </li>
-<li class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded" id="toc-関連項目">
-<a class="sidebar-toc-link" href="#関連項目">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">5</span>関連項目</div>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-参考文献">
+<a class="vector-toc-link" href="#参考文献">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">3</span>参考文献</div>
 </a>
-<button aria-controls="toc-関連項目-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small sidebar-toc-toggle">
-					関連項目サブセクションを切り替えます
-				</button>
-<ul class="sidebar-toc-list" id="toc-関連項目-sublist">
-<li class="sidebar-toc-list-item sidebar-toc-level-2" id="toc-捜査手法_2">
-<a class="sidebar-toc-link" href="#捜査手法_2">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">5.1</span>捜査手法</div>
-</a>
-<ul class="sidebar-toc-list" id="toc-捜査手法_2-sublist">
+<ul class="vector-toc-list" id="toc-参考文献-sublist">
 </ul>
 </li>
-<li class="sidebar-toc-list-item sidebar-toc-level-2" id="toc-日本の事件">
-<a class="sidebar-toc-link" href="#日本の事件">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">5.2</span>日本の事件</div>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-脚注">
+<a class="vector-toc-link" href="#脚注">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">4</span>脚注</div>
 </a>
-<ul class="sidebar-toc-list" id="toc-日本の事件-sublist">
+<ul class="vector-toc-list" id="toc-脚注-sublist">
 </ul>
 </li>
-<li class="sidebar-toc-list-item sidebar-toc-level-2" id="toc-人物">
-<a class="sidebar-toc-link" href="#人物">
-<div class="sidebar-toc-text">
-<span class="sidebar-toc-numb">5.3</span>人物</div>
+<li class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded" id="toc-関連項目">
+<a class="vector-toc-link" href="#関連項目">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">5</span>関連項目</div>
 </a>
-<ul class="sidebar-toc-list" id="toc-人物-sublist">
+<button aria-controls="toc-関連項目-sublist" class="mw-ui-icon mw-ui-icon-wikimedia-expand mw-ui-icon-small vector-toc-toggle">
+</button>
+<ul class="vector-toc-list" id="toc-関連項目-sublist">
+<li class="vector-toc-list-item vector-toc-level-2" id="toc-捜査手法_2">
+<a class="vector-toc-link" href="#捜査手法_2">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">5.1</span>捜査手法</div>
+</a>
+<ul class="vector-toc-list" id="toc-捜査手法_2-sublist">
+</ul>
+</li>
+<li class="vector-toc-list-item vector-toc-level-2" id="toc-日本の事件">
+<a class="vector-toc-link" href="#日本の事件">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">5.2</span>日本の事件</div>
+</a>
+<ul class="vector-toc-list" id="toc-日本の事件-sublist">
+</ul>
+</li>
+<li class="vector-toc-list-item vector-toc-level-2" id="toc-人物">
+<a class="vector-toc-link" href="#人物">
+<div class="vector-toc-text">
+<span class="vector-toc-numb">5.3</span>人物</div>
+</a>
+<ul class="vector-toc-list" id="toc-人物-sublist">
 </ul>
 </li>
 </ul>
 </li>
 </ul>
+</div>
+</div>
 </nav>
-</div>
-</div>
 <div class="mw-content-container">
 <main class="mw-body" id="content" role="main">
 <header class="mw-body-header vector-page-titlebar">
@@ -270,20 +275,20 @@
 						目次の表示・非表示を切り替え
 					</label>
 <div class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left" id="vector-page-titlebar-toc">
-<input aria-haspopup="true" class="vector-menu-checkbox" data-event-name="ui.dropdown-vector-page-titlebar-toc" id="vector-page-titlebar-toc-checkbox" role="button" type="checkbox">
-<label class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet" for="vector-page-titlebar-toc-checkbox" id="vector-page-titlebar-toc-label">
+<input aria-haspopup="true" class="vector-menu-checkbox " data-event-name="ui.dropdown-vector-page-titlebar-toc" id="vector-page-titlebar-toc-checkbox" role="button" type="checkbox">
+<label class="vector-menu-heading mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-wikimedia-listBullet" for="vector-page-titlebar-toc-checkbox" id="vector-page-titlebar-toc-label">
 <span class="vector-menu-heading-label"></span>
 </label>
 <div class="vector-menu-content">
-<div id="vector-page-titlebar-toc-unpinned-container">
+<div class="vector-unpinned-container" id="vector-page-titlebar-toc-unpinned-container">
 </div>
 </div>
 </input></div>
 <h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">公安警察</span></h1>
 <div class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang mw-ui-icon-flush-right" id="p-lang-btn">
-<input aria-haspopup="true" aria-label="特定の記事の別の言語版に移動します。 利用可能な言語1件" class="vector-menu-checkbox mw-interlanguage-selector " data-event-name="ui.dropdown-p-lang-btn" id="p-lang-btn-checkbox" role="button" type="checkbox">
-<label class="vector-menu-heading mw-ui-progressive mw-portlet-lang-heading-1 mw-ui-button mw-ui-quiet" for="p-lang-btn-checkbox" id="p-lang-btn-label">
-<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span><span class="vector-menu-heading-label">1の言語版</span>
+<input aria-haspopup="true" aria-label="特定の記事の別の言語版に移動します。 利用可能な言語1件" class="vector-menu-checkbox mw-interlanguage-selector" data-event-name="ui.dropdown-p-lang-btn" id="p-lang-btn-checkbox" role="button" type="checkbox">
+<label class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-1" for="p-lang-btn-checkbox" id="p-lang-btn-label">
+<span class="mw-ui-icon mw-ui-icon-wikimedia-language-progressive"></span><span class="vector-menu-heading-label">1の言語版</span>
 </label>
 <div class="vector-menu-content">
 <div class="vector-menu-content">
@@ -304,7 +309,7 @@
 </div>
 <div class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet" id="p-variants">
 <input aria-haspopup="true" aria-label="別の言語に切り替える" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox">
-<label class="vector-menu-heading" for="p-variants-checkbox" id="p-variants-label">
+<label class="vector-menu-heading " for="p-variants-checkbox" id="p-variants-label">
 <span class="vector-menu-heading-label">日本語</span>
 </label>
 <div class="vector-menu-content">
@@ -358,7 +363,7 @@
 <td>「<a href="/wiki/%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%AE%89%E5%A7%94%E5%93%A1%E4%BC%9A" title="国家公安委員会">国家公安委員会</a>」あるいは「<a href="/wiki/%E5%85%AC%E5%AE%89%E8%AA%BF%E6%9F%BB%E5%BA%81" title="公安調査庁">公安調査庁</a>」とは異なります。
 </td></tr></tbody></table>
 </div>
-<p><b>公安警察</b>（こうあんけいさつ）とは、<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%AD%A6%E5%AF%9F" title="日本の警察">日本の警察</a>において<a href="/wiki/%E8%AD%A6%E5%AF%9F%E5%BA%81" title="警察庁">警察庁</a><a href="/wiki/%E8%AD%A6%E5%82%99%E5%B1%80" title="警備局">警備局</a>を頂点とした公共の安全と秩序の維持を目的とする部門の総称である<sup class="reference" id="cite_ref-FOOTNOTE大島真生20113-4_1-0"><a href="#cite_note-FOOTNOTE大島真生20113-4-1">[1]</a></sup>。
+<p><b>公安警察</b>（こうあんけいさつ）とは、<a href="/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%AD%A6%E5%AF%9F" title="日本の警察">日本の警察</a>において<a href="/wiki/%E8%AD%A6%E5%AF%9F%E5%BA%81" title="警察庁">警察庁</a><a href="/wiki/%E8%AD%A6%E5%82%99%E5%B1%80" title="警備局">警備局</a>を頂点とした公共の安全と秩序の維持を目的とする<b>公安部門の総称</b>である<sup class="reference" id="cite_ref-FOOTNOTE大島真生20113-4_1-0"><a href="#cite_note-FOOTNOTE大島真生20113-4-1">[1]</a></sup>。
 </p>
 <meta property="mw:PageProp/toc"/>
 <h2><span id=".E6.97.A5.E6.9C.AC.E3.81.AE.E5.85.AC.E5.AE.89.E8.AD.A6.E5.AF.9F"></span><span class="mw-headline" id="日本の公安警察">日本の公安警察</span></h2>
@@ -410,7 +415,7 @@
 <h3><span id=".E5.85.AC.E5.AE.89.E8.AD.A6.E5.AF.9F.E5.AE.98"></span><span class="mw-headline" id="公安警察官">公安警察官</span></h3>
 <p><a href="/wiki/%E8%AD%A6%E8%A6%96%E5%BA%81%E5%85%AC%E5%AE%89%E9%83%A8" title="警視庁公安部">警視庁公安部</a>、各<a href="/wiki/%E8%AD%A6%E5%AF%9F%E6%9C%AC%E9%83%A8" title="警察本部">道府県警察</a><a href="/wiki/%E8%AD%A6%E5%82%99%E9%83%A8" title="警備部">警備部</a><a href="/wiki/%E5%85%AC%E5%AE%89%E8%AA%B2" title="公安課">公安課</a>、各所轄<a href="/wiki/%E8%AD%A6%E5%AF%9F%E7%BD%B2#組織の構成" title="警察署">警察署警備課公安係</a>に所属する警察官は、<b>公安警察官</b>と呼ばれる<sup class="reference" id="cite_ref-捜査員_56-1"><a href="#cite_note-捜査員-56">[56]</a></sup>。公安警察官は、<a href="/wiki/%E8%AD%A6%E5%8B%99%E9%83%A8" title="警務部">警務部</a>、<a href="/wiki/%E7%B7%8F%E5%8B%99%E9%83%A8_(%E8%AD%A6%E5%AF%9F)" title="総務部 (警察)">総務部</a>所属の警察官と並んで、警察内部ではエリートとみなされている<sup class="reference" id="cite_ref-FOOTNOTE宝島社201578-81_74-0"><a href="#cite_note-FOOTNOTE宝島社201578-81-74">[74]</a></sup>。公安警察官は、優れた協力者運営能力に加え<a href="/wiki/%E7%9B%97%E8%81%B4" title="盗聴">盗聴</a>や<a href="/wiki/%E7%9B%97%E6%92%AE" title="盗撮">盗撮</a>（「秘聴」「秘撮」と呼ばれる）、<a href="/wiki/%E3%83%94%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E8%A1%8C%E7%82%BA" title="ピッキング行為">ピッキング行為</a>といった非合法工作を行う能力も持つとされる<sup class="reference" id="cite_ref-75"><a href="#cite_note-75">[75]</a></sup>。公安警察官への教育は<a href="/wiki/%E8%AD%A6%E5%AF%9F%E5%A4%A7%E5%AD%A6%E6%A0%A1" title="警察大学校">警察大学校</a>で行われ、講習は全員が<a href="/wiki/%E5%81%BD%E5%90%8D" title="偽名">偽名</a>で参加し、追尾や張り込み、協力者獲得技術に加え、盗聴、写真撮影、ピッキングといった技術、さらには共産主義研究といった理論教育も行われる<sup class="reference" id="cite_ref-76"><a href="#cite_note-76">[76]</a></sup>。
 </p><p>公安警察官の行動確認は徹底したプロの技術とされ、「追尾」と呼ばれる行動確認は、<a href="/wiki/%E8%AD%A6%E5%AF%9F%E5%BA%81" title="警察庁">警察庁</a><a href="/wiki/%E8%AD%A6%E5%82%99%E5%B1%80" title="警備局">警備局</a>警備企画課の極秘チーム「<a href="/wiki/%E3%83%81%E3%83%A8%E3%83%80_(%E8%AD%A6%E5%AF%9F)" title="チヨダ (警察)">チヨダ</a>」の専科講習で徹底して叩き込まれる<sup class="reference" id="cite_ref-FOOTNOTE今井201927_77-0"><a href="#cite_note-FOOTNOTE今井201927-77">[77]</a></sup>。公安警察官は、対象者を秘匿に行動確認する手法が非常に高いといわれている。<a href="/wiki/%E5%86%B7%E6%88%A6" title="冷戦">冷戦</a>期に<a href="/wiki/%E6%9D%B1%E4%BA%AC" title="東京">東京</a>駐在の経験がある旧ソ連<a href="/wiki/%E3%82%BD%E9%80%A3%E5%9B%BD%E5%AE%B6%E4%BF%9D%E5%AE%89%E5%A7%94%E5%93%A1%E4%BC%9A" title="ソ連国家保安委員会">KGB</a>や米国<a href="/wiki/%E4%B8%AD%E5%A4%AE%E6%83%85%E5%A0%B1%E5%B1%80" title="中央情報局">CIA</a>の<a href="/wiki/%E3%82%B9%E3%83%91%E3%82%A4#機関員（インテリジェンスオフィサー）" title="スパイ">機関員</a>は、日本の公安警察官による行動確認の手法は非常に高度であると評価している<sup class="reference" id="cite_ref-78"><a href="#cite_note-78">[78]</a></sup><sup class="reference" id="cite_ref-79"><a href="#cite_note-79">[79]</a></sup>。世界各国の捜査・情報機関がその国独自の証拠収集技術を開発しているが、秘匿追尾による視察作業の緻密さは警視庁公安部外事第一課第四係の捜査員が世界でもトップクラスとされる<sup class="reference" id="cite_ref-FOOTNOTE竹内明2009147–150_80-0"><a href="#cite_note-FOOTNOTE竹内明2009147–150-80">[80]</a></sup>。
-</p><p>自ら検挙することが少ない公安警察官にとって、勤務成績の評価を決めるのは日々の報告書であり、複数の上司に回覧され、良質な報告書については<a href="/wiki/%E8%AD%A6%E5%AF%9F%E5%BA%81%E9%95%B7%E5%AE%98" title="警察庁長官">警察庁長官</a>や<a href="/wiki/%E5%86%85%E9%96%A3%E5%AE%98%E6%88%BF%E9%95%B7%E5%AE%98" title="内閣官房長官">内閣官房長官</a>まで届けられる<sup class="reference" id="cite_ref-捜査員_56-2"><a href="#cite_note-捜査員-56">[56]</a></sup>。公安警察官は偽名を使用する場合もあり、<a href="/wiki/%E8%AD%A6%E5%AF%9F%E6%89%8B%E5%B8%B3" title="警察手帳">警察手帳</a>を所持することも少なく、さらには家族にまでも職務の実態を明かすことはない<sup class="reference" id="cite_ref-内閣官房機密費_62-2"><a href="#cite_note-内閣官房機密費-62">[62]</a></sup>。公安警察官はたとえ他部門の警察官が同事案を扱っていたとしても、情報交換をせず、警察内部でも秘密主義的であるとされる<sup class="reference" id="cite_ref-FOOTNOTE大島真生21-22_81-0"><a href="#cite_note-FOOTNOTE大島真生21-22-81">[81]</a></sup>。そのため、<a href="/wiki/%E7%8D%B2%E5%BE%97%E5%B7%A5%E4%BD%9C" title="獲得工作">協力者獲得工作</a>、<a href="/wiki/%E9%80%AE%E6%8D%95" title="逮捕">逮捕</a>、<a href="/wiki/%E6%8D%9C%E7%B4%A2" title="捜索">捜索</a>といった捜査活動が徹底した情報管理のもと完全秘匿で行なわれる<sup class="reference" id="cite_ref-82"><a href="#cite_note-82">[82]</a></sup>。過去に警視庁では<a href="/wiki/%E9%80%A3%E7%B6%9A%E4%BC%81%E6%A5%AD%E7%88%86%E7%A0%B4%E4%BA%8B%E4%BB%B6" title="連続企業爆破事件">連続企業爆破事件</a>、<a href="/wiki/%E8%AD%A6%E5%AF%9F%E5%BA%81%E9%95%B7%E5%AE%98%E7%8B%99%E6%92%83%E4%BA%8B%E4%BB%B6" title="警察庁長官狙撃事件">警察庁長官狙撃事件</a>など大規模事案において、一つの特別捜査本部に公安部と<a href="/wiki/%E5%88%91%E4%BA%8B%E9%83%A8" title="刑事部">刑事部</a>双方が投入されたこともある<sup class="reference" id="cite_ref-FOOTNOTE大島真生21-22_81-1"><a href="#cite_note-FOOTNOTE大島真生21-22-81">[81]</a></sup>が、双方に情報が分散してしまい、十分な捜査情報が共有されなかったという<sup class="reference" id="cite_ref-FOOTNOTE大島真生21-22_81-2"><a href="#cite_note-FOOTNOTE大島真生21-22-81">[81]</a></sup>。例えば、警察庁長官狙撃事件の際は、事件現場にいたとされる<a href="/wiki/%E3%82%AA%E3%82%A6%E3%83%A0%E7%9C%9F%E7%90%86%E6%95%99" title="オウム真理教">オウム真理教</a>信者の警視庁警察官を、<a href="/wiki/%E5%8D%97%E5%8D%83%E4%BD%8F%E8%AD%A6%E5%AF%9F%E7%BD%B2" title="南千住警察署">南千住警察署</a><a href="/wiki/%E6%8D%9C%E6%9F%BB%E6%9C%AC%E9%83%A8" title="捜査本部">特別捜査本部</a>に投入されていた公安部公安第一課が長期間の軟禁状態にし、<a href="/wiki/%E4%BA%8B%E6%83%85%E8%81%B4%E5%8F%96" title="事情聴取">事情聴取</a>までしていたにもかかわらず、同じ特別捜査本部に投入されていた刑事部にその情報を一切公開しなかったことで捜査に支障が生じたこともあった。
+</p><p>自ら検挙することが少ない公安警察官にとって、勤務成績の評価を決めるのは日々の報告書であり、複数の上司に回覧され、良質な報告書については<a href="/wiki/%E8%AD%A6%E5%AF%9F%E5%BA%81%E9%95%B7%E5%AE%98" title="警察庁長官">警察庁長官</a>や<a href="/wiki/%E5%86%85%E9%96%A3%E5%AE%98%E6%88%BF%E9%95%B7%E5%AE%98" title="内閣官房長官">内閣官房長官</a>まで届けられる<sup class="reference" id="cite_ref-捜査員_56-2"><a href="#cite_note-捜査員-56">[56]</a></sup>。公安警察官は偽名を使用する場合もあり、<a href="/wiki/%E8%AD%A6%E5%AF%9F%E6%89%8B%E5%B8%B3" title="警察手帳">警察手帳</a>を所持することも少なく、さらには家族にまでも職務の実態を明かすことはない<sup class="reference" id="cite_ref-内閣官房機密費_62-2"><a href="#cite_note-内閣官房機密費-62">[62]</a></sup>。公安警察官はたとえ他部門の警察官が同事案を扱っていたとしても、情報交換をせず、警察内部でも秘密主義的であるとされる<sup class="reference" id="cite_ref-FOOTNOTE大島真生21-22_81-0"><a href="#cite_note-FOOTNOTE大島真生21-22-81">[81]</a></sup>。そのため、<a href="/wiki/%E7%8D%B2%E5%BE%97%E5%B7%A5%E4%BD%9C" title="獲得工作">協力者獲得工作</a>、<a href="/wiki/%E9%80%AE%E6%8D%95" title="逮捕">逮捕</a>、<a href="/wiki/%E6%8D%9C%E7%B4%A2" title="捜索">捜索</a>といった捜査活動が徹底した情報管理のもと完全秘匿で行われる<sup class="reference" id="cite_ref-82"><a href="#cite_note-82">[82]</a></sup>。過去に警視庁では<a href="/wiki/%E9%80%A3%E7%B6%9A%E4%BC%81%E6%A5%AD%E7%88%86%E7%A0%B4%E4%BA%8B%E4%BB%B6" title="連続企業爆破事件">連続企業爆破事件</a>、<a href="/wiki/%E8%AD%A6%E5%AF%9F%E5%BA%81%E9%95%B7%E5%AE%98%E7%8B%99%E6%92%83%E4%BA%8B%E4%BB%B6" title="警察庁長官狙撃事件">警察庁長官狙撃事件</a>など大規模事案において、一つの特別捜査本部に公安部と<a href="/wiki/%E5%88%91%E4%BA%8B%E9%83%A8" title="刑事部">刑事部</a>双方が投入されたこともある<sup class="reference" id="cite_ref-FOOTNOTE大島真生21-22_81-1"><a href="#cite_note-FOOTNOTE大島真生21-22-81">[81]</a></sup>が、双方に情報が分散してしまい、十分な捜査情報が共有されなかったという<sup class="reference" id="cite_ref-FOOTNOTE大島真生21-22_81-2"><a href="#cite_note-FOOTNOTE大島真生21-22-81">[81]</a></sup>。例えば、警察庁長官狙撃事件の際は、事件現場にいたとされる<a href="/wiki/%E3%82%AA%E3%82%A6%E3%83%A0%E7%9C%9F%E7%90%86%E6%95%99" title="オウム真理教">オウム真理教</a>信者の警視庁警察官を、<a href="/wiki/%E5%8D%97%E5%8D%83%E4%BD%8F%E8%AD%A6%E5%AF%9F%E7%BD%B2" title="南千住警察署">南千住警察署</a><a href="/wiki/%E6%8D%9C%E6%9F%BB%E6%9C%AC%E9%83%A8" title="捜査本部">特別捜査本部</a>に投入されていた公安部公安第一課が長期間の軟禁状態にし、<a href="/wiki/%E4%BA%8B%E6%83%85%E8%81%B4%E5%8F%96" title="事情聴取">事情聴取</a>までしていたにもかかわらず、同じ特別捜査本部に投入されていた刑事部にその情報を一切公開しなかったことで捜査に支障が生じたこともあった。
 </p>
 <h2><span id=".E5.90.84.E5.9B.BD.E3.81.AE.E5.85.AC.E5.AE.89.E8.AD.A6.E5.AF.9F"></span><span class="mw-headline" id="各国の公安警察">各国の公安警察</span></h2>
 <dl><dt><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_Japan.svg" title="日本の旗"><img alt="日本の旗" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/38px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/50px-Flag_of_Japan.svg.png 2x" width="25"/></a> <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a></dt>
@@ -430,7 +435,7 @@
 <dl><dt><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_Canada.svg" title="カナダの旗"><img alt="カナダの旗" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/25px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/38px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/50px-Flag_of_Canada.svg.png 2x" width="25"/></a> <a href="/wiki/%E3%82%AB%E3%83%8A%E3%83%80" title="カナダ">カナダ</a></dt>
 <dd>
 <ul><li><a href="/wiki/%E7%8E%8B%E7%AB%8B%E3%82%AB%E3%83%8A%E3%83%80%E9%A8%8E%E9%A6%AC%E8%AD%A6%E5%AF%9F" title="王立カナダ騎馬警察">王立カナダ騎馬警察</a></li></ul></dd></dl>
-<dl><dt><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_the_United_Kingdom_(1-2).svg" title="イギリスの旗"><img alt="イギリスの旗" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/25px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/38px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/50px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 2x" width="25"/></a> <a href="/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9" title="イギリス">イギリス</a></dt>
+<dl><dt><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_the_United_Kingdom_(3-5).svg" title="イギリスの旗"><img alt="イギリスの旗" class="thumbborder" data-file-height="600" data-file-width="1000" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/25px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/38px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/50px-Flag_of_the_United_Kingdom_%283-5%29.svg.png 2x" width="25"/></a> <a href="/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9" title="イギリス">イギリス</a></dt>
 <dd>
 <ul><li><a href="/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E8%AD%A6%E8%A6%96%E5%BA%81%E3%83%86%E3%83%AD%E5%AF%BE%E7%AD%96%E6%8C%87%E4%BB%A4%E9%83%A8" title="ロンドン警視庁テロ対策指令部">ロンドン警視庁テロ対策指令部</a></li></ul></dd></dl>
 <dl><dt><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_Australia.svg" title="オーストラリアの旗"><img alt="オーストラリアの旗" class="thumbborder" data-file-height="640" data-file-width="1280" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/25px-Flag_of_Australia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/38px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/50px-Flag_of_Australia.svg.png 2x" width="25"/></a> <a href="/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2" title="オーストラリア">オーストラリア</a></dt>
@@ -709,41 +714,41 @@
 ※<a href="/wiki/%E5%90%88%E5%90%8C%E6%83%85%E5%A0%B1%E4%BC%9A%E8%AD%B0" title="合同情報会議">合同情報会議</a>の構成機関</td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw2365
-Cached time: 20230102180932
+Parsed by mw2332
+Cached time: 20230123140919
 Cache expiry: 1814400
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.517 seconds
-Real time usage: 0.660 seconds
-Preprocessor visited node count: 20060/1000000
+CPU time usage: 0.486 seconds
+Real time usage: 0.631 seconds
+Preprocessor visited node count: 20077/1000000
 Post‐expand include size: 137184/2097152 bytes
 Template argument size: 22952/2097152 bytes
 Highest expansion depth: 22/100
-Expensive parser function count: 2/500
+Expensive parser function count: 3/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 66985/5000000 bytes
-Lua time usage: 0.117/10.000 seconds
-Lua memory usage: 3383435/52428800 bytes
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 3296613/52428800 bytes
 Number of Wikibase entities loaded: 0/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  523.233      1 -total
- 42.16%  220.615     17 Template:Cite_book
- 40.58%  212.351     17 Template:Citation/core-ja-jp
- 22.15%  115.876     17 Template:Citation/identifier
- 21.40%  111.975     17 Template:ISBN2
- 11.90%   62.256     34 Template:Sfn
- 11.00%   57.557      1 Template:拡張半保護
- 10.88%   56.903     17 Template:Catalog_lookup_link
- 10.69%   55.931      1 Template:Pp
-  8.36%   43.755     17 Template:Flagicon
+100.00%  494.827      1 -total
+ 41.44%  205.042     17 Template:Cite_book
+ 39.94%  197.640     17 Template:Citation/core-ja-jp
+ 21.92%  108.479     17 Template:Citation/identifier
+ 21.07%  104.257     17 Template:ISBN2
+ 11.11%   54.984      1 Template:拡張半保護
+ 10.77%   53.298     17 Template:Catalog_lookup_link
+ 10.71%   52.978      1 Template:Pp
+ 10.01%   49.514     34 Template:Sfn
+  9.54%   47.225     17 Template:Flagicon
 -->
-<!-- Saved in parser cache with key jawiki:pcache:idhash:255715-0!canonical and timestamp 20230102180931 and revision id 93174241.
+<!-- Saved in parser cache with key jawiki:pcache:idhash:255715-0!canonical and timestamp 20230123140918 and revision id 93531764.
  -->
-</div><noscript><img alt="" height="1" src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript>
-<div class="printfooter" data-nosnippet="">「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=公安警察&amp;oldid=93174241">https://ja.wikipedia.org/w/index.php?title=公安警察&amp;oldid=93174241</a>」から取得</div></div>
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript>
+<div class="printfooter" data-nosnippet="">「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=公安警察&amp;oldid=93531764">https://ja.wikipedia.org/w/index.php?title=公安警察&amp;oldid=93531764</a>」から取得</div></div>
 <div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E5%85%AC%E5%AE%89" title="Category:日本の公安">日本の公安</a></li><li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E8%AB%9C%E5%A0%B1%E3%83%BB%E6%83%85%E5%A0%B1%E6%A9%9F%E9%96%A2" title="Category:日本の諜報・情報機関">日本の諜報・情報機関</a></li><li><a href="/wiki/Category:%E6%B2%BB%E5%AE%89" title="Category:治安">治安</a></li><li><a href="/wiki/Category:%E6%97%A5%E6%9C%AC%E3%81%AE%E8%AD%A6%E5%AF%9F" title="Category:日本の警察">日本の警察</a></li><li><a href="/wiki/Category:%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F" title="Category:秘密警察">秘密警察</a></li><li><a href="/wiki/Category:%E9%98%B2%E8%AB%9C" title="Category:防諜">防諜</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E5%87%BA%E5%85%B8%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E7%95%AA%E5%8F%B7%E3%81%8C%E8%A6%81%E6%9C%9B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B" title="Category:出典のページ番号が要望されている記事">出典のページ番号が要望されている記事</a></li><li><a href="/wiki/Category:%E7%B7%A8%E9%9B%86%E6%8B%A1%E5%BC%B5%E5%8D%8A%E4%BF%9D%E8%AD%B7%E4%B8%AD%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8" title="Category:編集拡張半保護中のページ">編集拡張半保護中のページ</a></li><li><a href="/wiki/Category:%E5%8F%82%E7%85%A7%E6%96%B9%E6%B3%95" title="Category:参照方法">参照方法</a></li></ul></div></div>
 </div>
 </main>
@@ -751,7 +756,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="mw-footer-container">
 <footer class="mw-footer" id="footer" role="contentinfo">
 <ul id="footer-info">
-<li id="footer-info-lastmod"> 最終更新 2023年1月1日 (日) 05:39 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+<li id="footer-info-lastmod"> 最終更新 2023年1月23日 (月) 14:08 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
 <li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ja">利用規約</a>を参照してください。</li>
 </ul>
 <ul id="footer-places">
@@ -771,8 +776,8 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 </div>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.517","walltime":"0.660","ppvisitednodes":{"value":20060,"limit":1000000},"postexpandincludesize":{"value":137184,"limit":2097152},"templateargumentsize":{"value":22952,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":66985,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  523.233      1 -total"," 42.16%  220.615     17 Template:Cite_book"," 40.58%  212.351     17 Template:Citation/core-ja-jp"," 22.15%  115.876     17 Template:Citation/identifier"," 21.40%  111.975     17 Template:ISBN2"," 11.90%   62.256     34 Template:Sfn"," 11.00%   57.557      1 Template:拡張半保護"," 10.88%   56.903     17 Template:Catalog_lookup_link"," 10.69%   55.931      1 Template:Pp","  8.36%   43.755     17 Template:Flagicon"]},"scribunto":{"limitreport-timeusage":{"value":"0.117","limit":"10.000"},"limitreport-memusage":{"value":3383435,"limit":52428800}},"cachereport":{"origin":"mw2365","timestamp":"20230102180932","ttl":1814400,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u516c\u5b89\u8b66\u5bdf","url":"https:\/\/ja.wikipedia.org\/wiki\/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q24887257","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q24887257","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-19T04:39:20Z","dateModified":"2023-01-01T05:39:00Z","headline":"\u65e5\u672c\u306e\u8b66\u5bdf\u5e81\u3068\u90fd\u9053\u5e9c\u770c\u8b66\u5bdf\u306e\u516c\u5b89\u90e8\u9580\u3092\u6307\u3059\u4fd7\u79f0"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u516c\u5b89\u8b66\u5bdf","url":"https:\/\/ja.wikipedia.org\/wiki\/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q24887257","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q24887257","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-19T04:39:20Z","dateModified":"2023-01-01T05:39:00Z","headline":"\u65e5\u672c\u306e\u8b66\u5bdf\u5e81\u3068\u90fd\u9053\u5e9c\u770c\u8b66\u5bdf\u306e\u516c\u5b89\u90e8\u9580\u3092\u6307\u3059\u4fd7\u79f0"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw2383"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.486","walltime":"0.631","ppvisitednodes":{"value":20077,"limit":1000000},"postexpandincludesize":{"value":137184,"limit":2097152},"templateargumentsize":{"value":22952,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":66985,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  494.827      1 -total"," 41.44%  205.042     17 Template:Cite_book"," 39.94%  197.640     17 Template:Citation/core-ja-jp"," 21.92%  108.479     17 Template:Citation/identifier"," 21.07%  104.257     17 Template:ISBN2"," 11.11%   54.984      1 Template:拡張半保護"," 10.77%   53.298     17 Template:Catalog_lookup_link"," 10.71%   52.978      1 Template:Pp"," 10.01%   49.514     34 Template:Sfn","  9.54%   47.225     17 Template:Flagicon"]},"scribunto":{"limitreport-timeusage":{"value":"0.094","limit":"10.000"},"limitreport-memusage":{"value":3296613,"limit":52428800}},"cachereport":{"origin":"mw2332","timestamp":"20230123140919","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u516c\u5b89\u8b66\u5bdf","url":"https:\/\/ja.wikipedia.org\/wiki\/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q24887257","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q24887257","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-19T04:39:20Z","dateModified":"2023-01-23T14:08:49Z","headline":"\u65e5\u672c\u306e\u8b66\u5bdf\u5e81\u3068\u90fd\u9053\u5e9c\u770c\u8b66\u5bdf\u306e\u516c\u5b89\u90e8\u9580\u3092\u6307\u3059\u4fd7\u79f0"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u516c\u5b89\u8b66\u5bdf","url":"https:\/\/ja.wikipedia.org\/wiki\/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q24887257","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q24887257","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-19T04:39:20Z","dateModified":"2023-01-23T14:08:49Z","headline":"\u65e5\u672c\u306e\u8b66\u5bdf\u5e81\u3068\u90fd\u9053\u5e9c\u770c\u8b66\u5bdf\u306e\u516c\u5b89\u90e8\u9580\u3092\u6307\u3059\u4fd7\u79f0"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw2316"});});</script>
 </body>
 </html>
